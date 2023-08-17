@@ -1,0 +1,12 @@
+@media (max-width: 1110px) {
+    .header__nav-top {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 30px;
+    }
+    .footer__box {
+        justify-content: space-around;
+        gap: 30px;
+    }
+}
